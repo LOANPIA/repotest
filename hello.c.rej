@@ -1,0 +1,9 @@
+--- testdp.c	2022-12-10 09:11:33.833924000 +0700
++++ hello.c	2022-12-10 09:14:48.895760000 +0700
+@@ -2,5 +2,6 @@
+ int main(){
+ 	hello("Jany Khanh");
+ 	bonjour("Sophie Mai");
++	xinchao("Loan pia");
+ 	return 0;
+ }
